@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.swal2-container {
+  font-family: Figtree !important;
+}
+
+.swal2-container button {
+  background: #561441 !important;
+  padding: 10px 25px !important;
+  border-radius: 15px !important;
+}
