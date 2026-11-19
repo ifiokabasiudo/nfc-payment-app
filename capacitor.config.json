@@ -1,0 +1,13 @@
+{
+  "appId": "com.cup.app",
+  "appName": "CUPayment",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "CapacitorUpdater": {
+      "autoUpdate": true,
+      "version": "1.2.3",
+      "privateKey": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAvbF6HP6HcFah0fIqeT0n8uh5rDwbFAMgkfMYikaUS5OGCRoY\ntAHgy9Bkmc8gKDaU+cNQBwaOZgOt1kL+JPjJJNuxiQCRK5psp6s1l2NmEmvMCaBc\n5ioKGdgOBCZ2hzDUQf6RvrG6cLYVZ+s8wO2nvAH5PBnQq8FmQVSkvjV+ZD2svuOn\nKtUAH1Wi39xHXeHHqlF5BgMJczU7laXB3Fc4UVtZQ1ggqAl1WRz9KS/S2INd09k2\npAHnl6wI9nmGJ//JeC+TDPzhKJKzUtKOk89GVS1Xh5AmEmOCIrwNCGCLwDiQifBW\nQbedT132h0krPVQzsNkclBdPlISHBmNFT1n0bwIDAQABAoIBAGULiv6y3raKjzxk\ngRd/6i3MhDOo+MuaNtlH4wSVQB1aAgYLLqmEbphi85Oy73A8UvMQhSqY5XWV9B20\nJejP1WWa2WEfOjU91y8hVjTEL/UUEuX11EaOkj7eBelUC8NL0WUuE7i+t4+ejpyC\nhCRI9BaD/p1zKuKy7KNUUUU4/ZCrFvNHq7/K3BDtNtnX+EE8OV+9hyLTEoxsHhMe\nJBNsUG1ikfMkF3njyDYn5Z1ztc94sU3LB06I2J3UehK+wX8KAL2bQc4q+KX0qqlT\n+gI8crV/EzAygs2vlnsQleBHIM2x/DgAO07pZMbRdpzEWChLGrcaL6HbA3KbzslI\nB5tViRECgYEA37suEyUZ66GYaNb6V6CWnys1PnnLUknJOUJJkdBazXNSret072vB\nUqwTI7DyWmnls2Qysy3m3AELK2GYERrdkSlQjcLHz8cijVlikDNSpSp6tJdcu5Ed\na8hg8GRIULw+ly4QMuiX/1CBoD7ax9Z8d1/Kx6vnw+QZ9qwGcJeqSY0CgYEA2Q2E\nN/dPMiXg9JUDTTLmJaMJOrxdkuGRIDTaR5bjNQtUqQN0D7VfP6+xOQo7t0S5rDUK\nodajVKLd4MUVKzVDqSOAw8egruADXS2lD6b4OuYxc2kCXVkOUytT9mZQGeSdOaBs\nJcJ7H1YBiPBHohhtcQ/5nhOm4CtxSRTeJta2MOsCgYA8a82WqAdnBl4luiEjtx/W\nXpHjjHrnfzvTtd4ufel34LQsehE7c4tjK0uD8Q6SclTxbJbwou3c7n84uQObYvkB\ncfnqPvc9Wtcu+zvOG74vEtjOmq4Vjaw3ZocfhMWu4Be7NlpzlTMvZWuMfk0ReRBm\nIL2fzQIrehe08WJP1/XKJQKBgQC+YqHAKXhZB2qrfm138JZ5GunEkGcPqDWQ52sz\nckF3TKoE2heak7+pcCVmX/iDR5AJYjkiPc/kNDukpZps3PqtSIvwrpDd83Zf6+Kl\nuRJxL2rezZQaZzwubYnnTlUicSoL2xAhitZOZTVRdVmP8BdHHfkY1CoC5Xgn31sA\n/EKw4wKBgF9M2rpRGUIxbhzG385G01MzG+iibXWQxZrE7qTdu64LS0x2vHdyenGo\nAPUumh3KW3SwDmnwz8vo+kKyW6G81xWmU3j6nH4dBPt1ZT9Rzw74yuLPlh5YJgwb\n71YouHmVnrotu5HumR5hUvcOxUsI+kSvyyDEniUN6JgzD/3Z8zNh\n-----END RSA PRIVATE KEY-----\n"
+    }
+  }
+}
